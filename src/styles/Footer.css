@@ -1,0 +1,25 @@
+.footer-bar {
+  /* background-color: grey; */
+  border-top: 2px solid aliceblue;
+  width: 100%;
+  margin-bottom: 0.5em;
+}
+
+.social-links {
+  margin-top: 0.3em;
+  text-align: right;
+  float: right;
+}
+
+.social-links a:hover{
+    color: black;
+}
+
+.self-reg {
+  width: 30%;
+  float: left;
+  margin-top: 1.4em;
+  margin-left: 1em;
+  font-size: 12px;
+}
+

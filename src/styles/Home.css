@@ -1,0 +1,31 @@
+.name-heading{
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+
+.position-sub{
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+}
+
+.creative-pic{
+    border: 1px solid aliceblue;
+    height: 200px !important;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+}
+
+.slogan-blob{
+    border: 1px solid aliceblue;
+    margin-top: 6em;
+    text-align: center;
+    height: 100px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

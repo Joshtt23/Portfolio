@@ -1,0 +1,71 @@
+.header-bar {
+  text-align: center;
+  /* background-color: grey; */
+  border-bottom: 2px solid aliceblue;
+  width: 100%;
+}
+
+a:active,
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: large;
+}
+
+.nav-logo {
+  float: left;
+}
+
+.nav-logo a:hover {
+  font-size: 15px;
+}
+
+img {
+  width: 8em;
+  max-height: 2.5em;
+  border-radius: 5px;
+  margin-bottom: 0.3em;
+}
+
+.nav-links {
+  float: right;
+  text-transform: uppercase;
+  text-decoration: none;
+
+}
+
+.menu-nav a:hover{
+  color: black;
+}
+
+.nav-links a:hover {
+  color: black;
+}
+
+.hamburger-btn{
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  float: right;
+}
+
+ul a{
+  display: block;
+  padding: 10px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.open-menu{
+  width: 25px;
+  height: 25px;
+}
+
+.close-menu{
+  width: 25px;
+  height: 25px;
+}

@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className='footer-bar'>
       <div className='self-reg'>
-      
+      Developed and Designed by me 🙂 &copy; 2023
       </div>
       <div className='social-links'>
       <a href="https://twitter.com/TheLostToastr"><FaTwitterSquare size={40} className='linkdin-icon'/></a>

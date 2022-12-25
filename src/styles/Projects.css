@@ -1,0 +1,19 @@
+.all-projects{
+    padding: 2em;
+    text-align: center;
+    display: grid;
+}
+
+.all-projects div{
+    display: block;
+}
+
+.all-projects div img{
+    width: 50%;
+}
+.all-projects div a{
+    text-decoration: underline;
+}
+.all-projects div a:hover{
+    color: blue;
+}

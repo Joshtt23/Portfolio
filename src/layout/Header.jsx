@@ -30,9 +30,7 @@ function Header() {
     <nav className="header-bar">
       <div className="nav-logo">
         <Link to="/">
-          {/* replace with professional banner */}
-          {/* <img src="./images/banner.png" /> */}
-          Welcome Banner
+          <img src="https://www.seekpng.com/png/detail/124-1244113_welcome-banner-transparent-transparency.png" alt="Welcome!" />
         </Link>
       </div>
       {windowSize.innerWidth <= 600 ? (

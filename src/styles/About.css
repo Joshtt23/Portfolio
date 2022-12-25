@@ -1,0 +1,11 @@
+.about-info{
+    text-align: center;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: 20px;
+    background-color: rgb(27, 26, 26);
+    padding: 4em;
+    border-radius: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px white dashed;
+}

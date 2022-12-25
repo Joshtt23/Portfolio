@@ -1,0 +1,7 @@
+.resume-window {
+    height: 50em;
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

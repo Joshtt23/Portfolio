@@ -9,6 +9,10 @@
   margin-top: 0.3em;
   text-align: right;
   float: right;
+  margin-right: 1em;
+}
+.social-links a{
+  margin-left: .5em;
 }
 
 .social-links a:hover{
@@ -16,7 +20,7 @@
 }
 
 .self-reg {
-  width: 30%;
+  width: 40%;
   float: left;
   margin-top: 1.4em;
   margin-left: 1em;

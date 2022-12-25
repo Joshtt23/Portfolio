@@ -11,18 +11,17 @@
 }
 
 .creative-pic{
-    border: 1px solid aliceblue;
-    height: 200px !important;
-    width: 80%;
-    text-align: center;
+    height: 20em;
+    width: auto;
+    margin-bottom: 4em;
+    border-radius: 10px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 4em;
 }
 
 .slogan-blob{
-    border: 1px solid aliceblue;
-    margin-top: 6em;
+    margin-top: 3em;
     text-align: center;
     height: 100px;
     width: 80%;

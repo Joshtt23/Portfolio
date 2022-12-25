@@ -17,13 +17,13 @@ a {
 }
 
 .nav-logo a:hover {
-  font-size: 15px;
+  color: black;
 }
 
-img {
+.nav-logo img {
   width: 8em;
   max-height: 2.5em;
-  border-radius: 5px;
+  border-radius: 10px;
   margin-bottom: 0.3em;
 }
 

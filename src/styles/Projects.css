@@ -17,3 +17,12 @@
 .all-projects div a:hover{
     color: blue;
 }
+
+.learning-projects{
+    margin-top: 2em;
+    /* border: 1px aliceblue dashed; */
+}
+
+/* .live-projects{
+    border: 1px aliceblue dashed;
+} */

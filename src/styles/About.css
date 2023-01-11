@@ -1,12 +1,19 @@
-.about-info{
-    text-align: center;
-    margin-left: 3em;
-    margin-right: 3em;
-    font-size: 20px;
-    color: rgb(48, 47, 47);
-    background-color: aliceblue;
-    padding: 7em;
-    border-radius: 15px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 2px black dashed;
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&display=swap');
+
+.about-info {
+  text-align: center;
+  margin-left: 3em;
+  margin-right: 3em;
+  font-size: 20px;
+  color: rgb(48, 47, 47);
+  background-color: aliceblue;
+  padding: 7em;
+  border-radius: 15px;
+  font-family: 'Crimson Text', serif;
+  border: 2px black solid;
+  background: #313232 url("../../public/images/notepad.jpg") center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

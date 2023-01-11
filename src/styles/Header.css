@@ -1,7 +1,7 @@
 .header-bar {
   text-align: center;
   /* background-color: grey; */
-  border-bottom: 2px solid aliceblue;
+  border-bottom: 2px solid rgb(180, 232, 35);
   width: 100%;
 }
 
@@ -17,10 +17,11 @@ a {
 }
 
 .nav-logo a:hover {
-  color: black;
+  color: rgb(180, 232, 35);
 }
 
 .nav-logo img {
+  margin-top: 3px;
   width: 8em;
   max-height: 2.5em;
   border-radius: 10px;
@@ -35,11 +36,11 @@ a {
 }
 
 .menu-nav a:hover{
-  color: black;
+  color: rgb(180, 232, 35);
 }
 
 .nav-links a:hover {
-  color: black;
+  color: rgb(180, 232, 35);
 }
 
 .hamburger-btn{
